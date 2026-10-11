@@ -3,9 +3,9 @@
 ## About
 👋 Heyo, I'm Chris Lenhardt. I'm a Computer Science student at Georgia Tech. I work on machine learning, AI-powered applications, and full-stack web projects.
 
-- 📍 Location: Atlanta
+- 📍 Location: SF
 - 🎓 Education: Georgia Tech
-- 📅 Hacking Since: 2022
+- 📅 Hacking Since: 2019
 
 ## Featured Projects
 - 🎵 [niche.ai](https://github.com/ChrisLenhardt/niche.ai) — AI-powered music recommendation application. (TypeScript)
